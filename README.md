@@ -7,5 +7,5 @@ If you like the look of some of these, feel free to download it.
 
 I'm now making more use of:
 
--[vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern)
+- [vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern)
 
